@@ -1,17 +1,19 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+This project pretty-print json in shell
 
 # Quickstart
-
-[TODO]
 
 Example of script launch on Linux, Python 3.5:
 
 ```#!bash
 
 $ python pprint_json.py <path to file>
-# TODO add output example
+# {
+#     "4": 5,
+#     "6": 7
+# }
+
 
 ```
 
