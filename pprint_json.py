@@ -20,4 +20,4 @@ if __name__ == '__main__':
     except IndexError:
         print('Usage: python pprint_json.py <path to file>')
         sys.exit(2)
-    pretty_print_json(load_data(sys.argv[1]))
+    pretty_print_json(load_data(file_name))
